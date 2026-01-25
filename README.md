@@ -1,8 +1,8 @@
 # dakuten゛
 
-![last commit](https://img.shields.io/github/last-commit/hohiho-handakuten/dakuten)
+![last commit](https://img.shields.io/github/last-commit/euryz/dakuten)
 
-![activity](https://img.shields.io/github/commit-activity/m/hohiho-handakuten/dakuten)
+![activity](https://img.shields.io/github/commit-activity/m/euryz/dakuten)
 
 a holding repository for random things, experiments, and one-offs.
 
