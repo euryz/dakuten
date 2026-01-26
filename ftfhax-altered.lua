@@ -1,4 +1,4 @@
-local ver = "0.1" -- loadstring(game:HttpGet("https://raw.githubusercontent.com/hohiho-handakuten/dakuten/refs/heads/main/ftfhax-altered.lua", true))()
+local ver = "0.1" -- loadstring(game:HttpGet("https://raw.githubusercontent.com/euryz/dakuten/refs/heads/main/ftfhax-altered.lua", true))()
 
 local FTFHAX = Instance.new("ScreenGui")
 local MenusTabFrame = Instance.new("Frame")
