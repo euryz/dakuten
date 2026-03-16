@@ -4,15 +4,15 @@
 
 ![activity](https://img.shields.io/github/commit-activity/m/euryz/dakuten)
 
-a holding repository for random things, experiments, and one-offs.
+A holding repository for random things, experiments, and one-offs.
 
-there is no security and no promise of continuity for anything present.
+There is no security and no promise of continuity for anything present.
 
-activity may be daily, or absent for years.
+Activity may be daily, or absent for years.
 
-* [x] open source
-* [ ] guaranteed updates
-* [ ] long-term support
+* [x] Open source
+* [ ] Guaranteed updates
+* [ ] Long-term support
 
 > [!NOTE]
 > Contents may change direction or disappear without notice. If something here interests you, take it.
