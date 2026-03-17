@@ -34,7 +34,7 @@ local LocalPlayer = Players.LocalPlayer
 local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
 local NPCFolder = workspace.Map.Zones.Field.NPC
 
-local Notification = loadstring(game:HttpGet('https://raw.githubusercontent.com/euryz/euryz/refs/heads/main/archived/JxereasNotifications.lua', true))()
+local Notification = loadstring(game:HttpGet('https://raw.githubusercontent.com/euryz/euryz/refs/heads/main/archived/jxereas-notifications.lua', true))()
 
 local Registry = require(ReplicatedStorage:WaitForChild('Shared'):WaitForChild('Registry'))
 local DataAggregation = require(
