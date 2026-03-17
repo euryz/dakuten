@@ -4,6 +4,8 @@
 -->> F to toggle on/off.
 -->> It's best not to execute more than once.
 
+-->> Highly catered to my preference, edit the script to change whatever you don't like.
+
 getgenv().Eurys = setmetatable({
     AutoTake = false,
     DebounceTime = 5,
