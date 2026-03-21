@@ -1,4 +1,5 @@
 -->>  eurys @euryz
+-->> loadstring(game:HttpGet('https://raw.githubusercontent.com/euryz/dakuten/refs/heads/main/reallyunstabledontuseyet-anime-girl-rng.lua'))()
 
 local VERSION    = "1.0.0"
 local BUILD_DATE = "2026-03-21"
